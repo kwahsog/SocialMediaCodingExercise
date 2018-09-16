@@ -27,7 +27,7 @@ public class SocialCommandProcessor extends CommandProcessor {
      * @return CommandType enum based on the action taken.
      */
     private CommandType getCommandResult(String message) {
-        //TODO: Improve classification
+        //This could be improved use more robust logic.
         if (message.contains(" -> ")) {
             return CommandType.POSTING;
         } else if (message.contains(" follows ")) {

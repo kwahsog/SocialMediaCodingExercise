@@ -11,7 +11,7 @@ import java.util.*;
 public class MessageFormatter {
 
     /**
-     * Take list of messages and return a correctly formatted list for read command and return formatted output.
+     * Take list of messages and return a correctly formatted list for read command.
      * @param messages list of messages
      * @return array of pretty strings.
      */
