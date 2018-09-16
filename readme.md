@@ -1,4 +1,4 @@
-# Social media network coding exercise
+# Social network coding exercise
 
 Coding exercise, implementing a console based social networking application. Please see provided .pdf for full spec and list of actions and valid commands.
 
