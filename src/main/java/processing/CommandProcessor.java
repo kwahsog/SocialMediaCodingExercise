@@ -9,7 +9,7 @@ import java.util.List;
 public abstract class CommandProcessor {
 
     /**
-     * Process the users input.
+     * Process the user's input.
      * @param userInput user's inputted string.
      * @param commandDate date command entered.
      * @return array of output strings.

@@ -29,7 +29,7 @@ public class User {
 
     /**
      * Store a given message for this user.
-     * @param message message.
+     * @param message message to store.
      */
     public void addMessage(Message message) {
         userMessages.add(message);

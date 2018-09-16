@@ -6,6 +6,10 @@ import java.util.Scanner;
 
 public class socialNetworkApp {
 
+    /**
+     * Main method to start console for user input.
+     * @param args - ignored.
+     */
     public static void main (String args[]) {
 
         SocialCommandProcessor socialCommandProcessor = new SocialCommandProcessor();

@@ -4,7 +4,7 @@ import java.time.Duration;
 import java.time.LocalDateTime;
 
 /**
- * Message class to records of individual messages.
+ * Message class to store individual messages.
  */
 public class Message {
 

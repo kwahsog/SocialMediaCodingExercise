@@ -12,7 +12,7 @@ public class MessageFormatter {
 
     /**
      * Take list of messages and return a correctly formatted list for read command.
-     * @param messages list of messages
+     * @param messages list of messages.
      * @return array of pretty strings.
      */
     public List<String> formatReadMessages (List<Message> messages) {
